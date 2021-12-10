@@ -129,6 +129,30 @@ img{
 
 
 
+/* Credential component settings */
+#password input{
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+#confirmPassword input{
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+
+/* Credential component settings */
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -235,6 +259,15 @@ img{
         height: 45px;
     }
 
+     #password input{
+        font-size: 15px;
+        letter-spacing: 4px;
+    }
+
+    #confirmPassword input{
+        font-size: 15px;
+        letter-spacing: 4px;
+    }
 }
 
 
